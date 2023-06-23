@@ -65,9 +65,9 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 | [08](clases/clase-08/) | 2023-05-08 | elementos HTML button y event listeners JS   |
 | [09](clases/clase-09/) | 2023-05-15 | formularios interactivos en HTML y JS        |
 | [10](clases/clase-10/) | 2023-05-22 | prueba solemne 2                             |
-| [11](clases/clase-11/) | 2023-05-29 | instalación y configuración de CMS y plugins |
-| [12](clases/clase-12/) | 2023-06-05 | desarrollo de brief de diseño web            |
-| [13](clases/clase-13/) | 2023-06-12 | edición de aspectos visuales de sitio web    |
+| [11](clases/clase-11/) | 2023-05-29 | profundización de JS y CSS                   |
+| [12](clases/clase-12/) | 2023-06-05 | habilidades web y mercado laboral            |
+| [13](clases/clase-13/) | 2023-06-12 | investigación de elementos web para examen   |
 | examen teórico         | 2023-06-19 | examen teórico                               |
 | cierre acta            | 2023-07-16 | plazo máximo envío actas                     |
 
