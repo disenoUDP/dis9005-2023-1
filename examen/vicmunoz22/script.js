@@ -1,4 +1,4 @@
-eria colocar el link exacto pero honestamente no los encontre :( console.log("Bienvenidos a esta p&aacute;gina");
+// eria colocar el link exacto pero honestamente no los encontre :( console.log("Bienvenidos a esta p&aacute;gina");
 console.log("ancho: " + window.innerWidth);
 // la fecha fue sacada de aqui https://www.w3schools.com/tags/tag_time.asp#:~:text=The%20tag%20defines%20a,can%20produce%20smarter%20search%20results.
 const d = new Date("2022-03-25");                             
